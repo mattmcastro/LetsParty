@@ -1,3 +1,4 @@
 # LetsParty
 Este projeto foi realizado no primeiro semestre
-A programação esta sendo feita em blocos e contem js.
+A programação foi feita em blocos.
+https://www.youtube.com/watch?v=Pqw8mXyFIPk
